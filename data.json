@@ -1,0 +1,68 @@
+[
+    {
+        "title": "RC Helicopter",
+        "price": 39.99,
+        "quantity": 42,
+        "rating": 4,
+        "category": "RC (Remote Control) Toys",
+        "image": "https://i.ibb.co/3kcpZsd/RC-Helicopter.jpg",
+        "sellerName": "Shakil",
+        "sellerEmail": "mutaherahmedshakil@gmail.com",
+        "description": "A high-performance 3D machine featuring the latest advancements in Spekrum technology."
+    },
+    {
+        "title": "RC Drone",
+        "price": 89.99,
+        "quantity": 541,
+        "rating": 4.5,
+        "category": "RC (Remote Control) Toys",
+        "image": "https://i.ibb.co/wWjbxxV/RC-Drone.jpg",
+        "sellerName": "Shakil",
+        "sellerEmail": "mutaherahmedshakil@gmail.com",
+        "description": "Drone with 4/3 CMOS Hasselblad Camera for Professionals, 5.1K HD Video, 46-Min Flight Time, Omnidirectional Obstacle Sensing, 15km Transmission Range"
+    },
+    {
+        "title": "Nintendo Switch",
+        "price": 299.99,
+        "quantity": 10,
+        "rating": 4.7,
+        "category": "Handheld Electronic Games",
+        "image": "https://i.ibb.co/wLD502C/NSwitch-Top.png",
+        "sellerName": "Bill",
+        "sellerEmail": "billgates@yahoo.com",
+        "description": "The Nintendo Switch is a hybrid video game console, consisting of a console unit, a dock, and two Joy-Con controllers. Although it is a hybrid console, Nintendo classifies it as 'a home console that you can take with you on the go'."
+    },
+    {
+        "title": "PlayStation Portable (PSP)",
+        "price": 149.99,
+        "quantity": 18,
+        "rating": 4.4,
+        "category": "Handheld Electronic Games",
+        "image": "https://i.ibb.co/pfTw3cN/PSP.jpg",
+        "sellerName": "Bill",
+        "sellerEmail": "billgates@yahoo.com",
+        "description": "The PlayStation Portable (PSP) is a handheld game console developed and marketed by Sony Computer Entertainment."
+    },
+    {
+        "title": "Monopoly Voice Banking",
+        "price": 29.99,
+        "quantity": 18,
+        "rating": 4.7,
+        "category": "Electronic Board Games",
+        "image": "https://i.ibb.co/HG4FfQV/Monopoly.jpg",
+        "sellerName": "James",
+        "sellerEmail": "jamesbond@gmail.com",
+        "description": "Talk, Mr Monopoly Listens: Press the button, and say a command like, 'Pay Rent on Piccadilly'; Mr Monopoly will respond and move the payment to an opponent's account- Faster Gameplay: Players land on a forced trade space and tell Mr Monopoly which properties they want to trade."
+    },
+    {
+        "title": "Battleship Electronic Game",
+        "price": 19.99,
+        "quantity": 15,
+        "rating": 4.2,
+        "category": "Electronic Board Games",
+        "image": "https://i.ibb.co/F6KC3fs/CLASSIC-BATTLESHIP-MOVIE-EDITION.jpg",
+        "sellerName": "James",
+        "sellerEmail": "jamesbond@gmail.com",
+        "description": "You have a fleet of battleships, an attack plane, a fighter, a tank and a spy plane all ready for the battle. But beware the opponent player gets the same as well."
+    }
+]
